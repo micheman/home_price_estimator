@@ -18,3 +18,5 @@ How To Run The Model
 6. Execute at the command prompt the above command line string
 
 7. After processing, resulting output will appear: $<Estimated Home Price>
+
+<END>
